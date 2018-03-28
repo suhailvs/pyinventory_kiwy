@@ -1,0 +1,3 @@
+title=pyinventory
+author=suhail
+orientation=portrait
